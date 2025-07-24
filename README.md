@@ -18,7 +18,7 @@ A supermarket checkout system.
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/vmvwebworks/cart_system_test_reloaded
 cd cart_system_test_reloaded
 ```
 2. Install dependencies:
